@@ -1,7 +1,6 @@
 package de.danielmescheder.snooker.simulation.event;
 
 import java.util.Set;
-
 import de.danielmescheder.snooker.domain.CollidableGameObject;
 
 
